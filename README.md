@@ -15,6 +15,10 @@ Patches
 -------
 The website has a [list of community patches](https://st.suckless.org/patches/).
 
+The following patches were applied:
+
+- [alpha](https://st.suckless.org/patches/alpha/)
+
 To manually apply a patch, run:
 
 	patch -p1 < path/to/patch.diff
@@ -64,3 +68,5 @@ In jurisdictions that recognize copyright laws, the following licenses apply:
 [st](https://git.suckless.org/st/) is available under the [MIT/X Consortium License](LICENSES/MIT).
 
 Everything made by me is under [The Unlicense](LICENSES/UNLICENSE).
+
+For patches, refer to their individual pages linked above for details.
