@@ -18,6 +18,7 @@ The website has a [list of community patches](https://st.suckless.org/patches/).
 The following patches were applied:
 
 - [alpha](https://st.suckless.org/patches/alpha/)
+- [boxdraw](https://st.suckless.org/patches/boxdraw/)
 
 To manually apply a patch, run:
 
